@@ -1,0 +1,9 @@
+README.md
+setup.py
+StockSim.egg-info/PKG-INFO
+StockSim.egg-info/SOURCES.txt
+StockSim.egg-info/dependency_links.txt
+StockSim.egg-info/requires.txt
+StockSim.egg-info/top_level.txt
+test/__init__.py
+test/test_simulation.py

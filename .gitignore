@@ -1,0 +1,10 @@
+# Environnement Virtuel
+venv/
+*.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Documentation Sphinx générée
+docs/_build/
