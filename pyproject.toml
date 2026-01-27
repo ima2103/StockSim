@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "StockSim"
+version = "0.1.0"
+description = "Simulation de la dynamique d'un stock de marchandise empilees"
+readme = "README.md"
+authors = [{ name = "Groupe 12", email = "ninadefo00@gmail.com" }]
+requires-python = ">=3.8"
+dependencies = [] # Le projet utilise uniquement des bibliothèques standard (math, json, time)
+
+[tool.setuptools.packages.find]
+where = ["src"]

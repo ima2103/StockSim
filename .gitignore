@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.egg-info/
+memoire_logistique.json
+.DS_Store
